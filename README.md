@@ -1,0 +1,4 @@
+# Polly
+<img width="487" alt="Screen Shot 2022-08-06 at 8 50 45 AM" src="https://user-images.githubusercontent.com/90010570/183236973-50dfe3e0-d251-4a91-affa-a2bbbd519523.png">
+Our software application that goes by the name Polly is a pretty straightforward, user-friendly app that was built using JAVA, and XML languages with SQLite database. The idea behind it is to let organizations, researchers and other people create productive online polls quickly without making you go in circles. With Polly app in place, you can customize your polls, share them with the users in nearest locations. Users can answer your questions by attending the polls from nearest locations. One of the best features of Polly app is that it sends notifications to users about the voting result after 24H. Our users are expected to be anyone who wants to post and share a polls.
+[Polly_Report_Group#7.pdf](https://github.com/Modhi-Altammami/Polly/files/9274487/Polly_Report_Group.7.pdf)
